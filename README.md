@@ -12,10 +12,11 @@ Simple files which store commands that can be executed in Windows environment us
 + [Variables, Syntax, and Comments](https://github.com/ROBIN2647/Batch-Scripting/tree/main/variable)
 + [Strings](https://github.com/ROBIN2647/Batch-Scripting/tree/main/string)  & [Arrays](https://github.com/ROBIN2647/Batch-Scripting/tree/main/Arrays)
 + [loops](https://github.com/ROBIN2647/Batch-Scripting/tree/main/loops)
-+ [The famous If statement, If Else, and Nested If](https://github.com/ROBIN2647/Batch-Scripting/tree/main/"Decision Making")
++ [The famous If statement, If Else, and Nested If](https://github.com/ROBIN2647/Batch-Scripting/tree/main/Decision%20Making))
 + [Operators – Types](https://github.com/ROBIN2647/Batch-Scripting/tree/main/operations)
 + [Input/Output, Return Codes](https://github.com/ROBIN2647/Batch-Scripting/tree/main/practice)
 + [Functions](https://github.com/ROBIN2647/Batch-Scripting/tree/main/function)
+
 
 ## Some CMD basic commands:
 - ver – Shows the version of MS-DOS
@@ -44,7 +45,7 @@ Simple files which store commands that can be executed in Windows environment us
 - tasklist – It lists tasks, including task name and process id (PID)
 - Fc - This batch command lists the actual differences between two files
 
-
+**Enjoy Scripting**
 
 
 
