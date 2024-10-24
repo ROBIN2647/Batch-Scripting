@@ -13,7 +13,7 @@ Simple files which store commands that can be executed in Windows environment us
 + [Strings](https://github.com/ROBIN2647/Batch-Scripting/tree/main/string)  & [Arrays](https://github.com/ROBIN2647/Batch-Scripting/tree/main/Arrays)
 + [loops](https://github.com/ROBIN2647/Batch-Scripting/tree/main/loops)
 + [The famous If statement, If Else, and Nested If](https://github.com/ROBIN2647/Batch-Scripting/tree/main/Decision%20Making))
-+ [Operators – Types](https://github.com/ROBIN2647/Batch-Scripting/tree/main/operations)
++ [Operators – Types](https://github.com/ROBIN2647/Batch-Scripting/tree/main/operators)
 + [Input/Output, Return Codes](https://github.com/ROBIN2647/Batch-Scripting/tree/main/practice)
 + [Functions](https://github.com/ROBIN2647/Batch-Scripting/tree/main/function)
 
