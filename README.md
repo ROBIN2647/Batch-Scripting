@@ -8,13 +8,14 @@ Simple files which store commands that can be executed in Windows environment us
 * b) Via run command
 * c) executable file extension .bat(like commands.bat)
 ## A roadmap you should follow for Basics of Batch Scripting:
-+ Files & Commands
-+ Variables, Syntax, and Comments
-+ Strings & Arrays
-+ The famous If statement, If Else, and Nested If
-+ Operators – Types
-+ Input/Output, Return Codes
-+ Functions
++ [Files & Commands](https://github.com/ROBIN2647/Batch-Scripting/tree/main/variable)
++ [Variables, Syntax, and Comments](https://github.com/ROBIN2647/Batch-Scripting/tree/main/variable)
++ [Strings](https://github.com/ROBIN2647/Batch-Scripting/tree/main/string)  & [Arrays](https://github.com/ROBIN2647/Batch-Scripting/tree/main/Arrays)
++ [loops](https://github.com/ROBIN2647/Batch-Scripting/tree/main/loops)
++ [The famous If statement, If Else, and Nested If](https://github.com/ROBIN2647/Batch-Scripting/tree/main/"Decision Making")
++ [Operators – Types](https://github.com/ROBIN2647/Batch-Scripting/tree/main/operations)
++ [Input/Output, Return Codes](https://github.com/ROBIN2647/Batch-Scripting/tree/main/practice)
++ [Functions](https://github.com/ROBIN2647/Batch-Scripting/tree/main/function)
 
 ## Some CMD basic commands:
 - ver – Shows the version of MS-DOS
